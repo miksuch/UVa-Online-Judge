@@ -1,0 +1,7 @@
+
+template.cpp
+template.txt
+*.o
+*.exe
+C++/output.txt
+C++/input.txt
