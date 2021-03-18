@@ -1,4 +1,4 @@
-
+*.txt
 template.cpp
 template.txt
 *.o
